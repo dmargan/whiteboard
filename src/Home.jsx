@@ -4,7 +4,7 @@ function Home() {
   return (
     <React.Fragment>
       <h1>Home Screen</h1>
-      <p>Hello!</p>
+      <div>Hello!</div>
     </React.Fragment>
   );
 }
